@@ -10,3 +10,4 @@ https://arunavtnt-prog.github.io/eat-elevate-landing/
 
 - Framer (exported as static HTML)
 - GitHub Pages hosting
+- **External links removed**: No Framer fonts, images, scripts, or metadata dependencies
